@@ -134,8 +134,8 @@
             <mxPoint x="620" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="navEYXCAtq3ecy9_J3oT-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="93" y="169" width="120" height="60" as="geometry" />
+        <mxCell id="navEYXCAtq3ecy9_J3oT-39" value="API接口层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="93" y="169" width="87" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
