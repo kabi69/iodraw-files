@@ -14,7 +14,7 @@
           <mxGeometry x="249" y="260" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BYUqpOU9FO1eT6hEposT-4" value="查看检测报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="400" width="156" height="49" as="geometry" />
+          <mxGeometry x="672" y="252" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BYUqpOU9FO1eT6hEposT-5" value="导出检测结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="217" width="157" height="49" as="geometry" />
@@ -41,10 +41,10 @@
           <mxGeometry x="150" y="368" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BYUqpOU9FO1eT6hEposT-13" value="特征数据展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="825" y="508" width="157" height="49" as="geometry" />
+          <mxGeometry x="797" y="360" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BYUqpOU9FO1eT6hEposT-14" value="可视化图表（雷达图/柱状图）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="530" y="499" width="244" height="66" as="geometry" />
+          <mxGeometry x="502" y="351" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BYUqpOU9FO1eT6hEposT-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="1" source="BYUqpOU9FO1eT6hEposT-1" target="BYUqpOU9FO1eT6hEposT-2">
           <mxGeometry relative="1" as="geometry">
@@ -112,7 +112,7 @@
         <mxCell id="BYUqpOU9FO1eT6hEposT-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BYUqpOU9FO1eT6hEposT-4" target="BYUqpOU9FO1eT6hEposT-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="652" y="474" />
+              <mxPoint x="624" y="326" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -123,7 +123,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BYUqpOU9FO1eT6hEposT-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.002;exitY=0.607;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BYUqpOU9FO1eT6hEposT-1">
+        <mxCell id="BYUqpOU9FO1eT6hEposT-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.002;exitY=0.607;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.459;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BYUqpOU9FO1eT6hEposT-1" target="BYUqpOU9FO1eT6hEposT-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="420" as="sourcePoint" />
             <mxPoint x="670" y="370" as="targetPoint" />
