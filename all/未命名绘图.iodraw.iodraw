@@ -14,7 +14,7 @@
           <mxGeometry x="249" y="260" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BYUqpOU9FO1eT6hEposT-4" value="查看检测报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="672" y="252" width="156" height="49" as="geometry" />
+          <mxGeometry x="620" y="220" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BYUqpOU9FO1eT6hEposT-5" value="导出检测结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="217" width="157" height="49" as="geometry" />
@@ -99,13 +99,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="212" y="334" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BYUqpOU9FO1eT6hEposT-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BYUqpOU9FO1eT6hEposT-4" target="BYUqpOU9FO1eT6hEposT-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="430" y="291" />
             </Array>
           </mxGeometry>
         </mxCell>
