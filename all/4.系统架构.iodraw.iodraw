@@ -52,14 +52,14 @@
         <mxCell id="navEYXCAtq3ecy9_J3oT-15" value="文本预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="268" y="491" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="navEYXCAtq3ecy9_J3oT-16" value="20维特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="61" y="510" width="157" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-17" value="模型预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="77" y="615" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-18" value="SQLite数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="504" y="541" width="154" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="navEYXCAtq3ecy9_J3oT-16" value="20维特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="61" y="516" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-19" value="模型文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="700" y="541" width="125" height="49" as="geometry" />
