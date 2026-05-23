@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-7" value="Canvas可视化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="45" width="157" height="49" as="geometry" />
+          <mxGeometry x="202" y="45" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-8" value="响应式布局" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="587" y="45" width="140" height="49" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="580" y="194" width="147" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-12" value="AIGC检测模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="258.5" y="342" width="159" height="49" as="geometry" />
+          <mxGeometry x="206" y="340" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-13" value="检测报告模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="502" y="342" width="156" height="49" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="77" y="615" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-18" value="SQLite数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="503" y="550" width="154" height="49" as="geometry" />
+          <mxGeometry x="504" y="541" width="154" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-19" value="模型文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="700" y="541" width="125" height="49" as="geometry" />
