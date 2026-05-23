@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rSoD8abn8ZKb8yjLEeGE-93" value="4.3.2 检测报告模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="rSoD8abn8ZKb8yjLEeGE-93" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="5902" y="350" width="1454" height="247" as="geometry" />
         </mxCell>
         <mxCell id="rSoD8abn8ZKb8yjLEeGE-94" value="特征数据展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="rSoD8abn8ZKb8yjLEeGE-93">
