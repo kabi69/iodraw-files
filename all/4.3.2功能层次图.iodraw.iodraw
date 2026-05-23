@@ -16,7 +16,7 @@
         <mxCell id="a59ggBURsFES1HlvgSRk-28" value="颜色编码标记" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="a59ggBURsFES1HlvgSRk-25">
           <mxGeometry x="250" y="169" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="a59ggBURsFES1HlvgSRk-29" value="特征说明tooltip" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="a59ggBURsFES1HlvgSRk-25">
+        <mxCell id="a59ggBURsFES1HlvgSRk-29" value="特征说明" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="a59ggBURsFES1HlvgSRk-25">
           <mxGeometry x="456" y="169" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="a59ggBURsFES1HlvgSRk-30" value="报告数据结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="a59ggBURsFES1HlvgSRk-25">
