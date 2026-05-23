@@ -37,12 +37,6 @@
         <mxCell id="rSoD8abn8ZKb8yjLEeGE-53" value="结果聚合与排序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="rSoD8abn8ZKb8yjLEeGE-43">
           <mxGeometry x="1504" y="169" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="rSoD8abn8ZKb8yjLEeGE-55" value="文本分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="rSoD8abn8ZKb8yjLEeGE-43">
-          <mxGeometry x="1726" y="169" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="rSoD8abn8ZKb8yjLEeGE-56" value="代码分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="rSoD8abn8ZKb8yjLEeGE-43">
-          <mxGeometry x="1900" y="169" width="125" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="rSoD8abn8ZKb8yjLEeGE-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="rSoD8abn8ZKb8yjLEeGE-43" source="rSoD8abn8ZKb8yjLEeGE-44" target="rSoD8abn8ZKb8yjLEeGE-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -93,14 +87,6 @@
             <Array as="points">
               <mxPoint x="1590" y="132" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rSoD8abn8ZKb8yjLEeGE-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="rSoD8abn8ZKb8yjLEeGE-43" target="rSoD8abn8ZKb8yjLEeGE-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1962" y="132" />
-            </Array>
-            <mxPoint x="1910.75" y="95.00000000000011" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
