@@ -29,7 +29,7 @@
           <mxGeometry x="180" y="45" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-8" value="响应式布局" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="661" y="45" width="140" height="49" as="geometry" />
+          <mxGeometry x="587" y="45" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-9" value="单文本检测API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="202" y="194" width="163" height="49" as="geometry" />
@@ -66,13 +66,6 @@
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-20" value="缓存存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="877" y="615" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="navEYXCAtq3ecy9_J3oT-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.18;entryY=0.01;rounded=0;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-9" target="navEYXCAtq3ecy9_J3oT-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="136" y="317" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-12" target="navEYXCAtq3ecy9_J3oT-15">
           <mxGeometry relative="1" as="geometry">
