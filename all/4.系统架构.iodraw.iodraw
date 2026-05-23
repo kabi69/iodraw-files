@@ -59,7 +59,7 @@
           <mxGeometry x="77" y="615" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-18" value="SQLite数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="498" y="615" width="154" height="49" as="geometry" />
+          <mxGeometry x="503" y="550" width="154" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-19" value="模型文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="702" y="615" width="125" height="49" as="geometry" />
