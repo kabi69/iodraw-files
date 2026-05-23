@@ -56,16 +56,16 @@
           <mxGeometry x="77" y="615" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-18" value="SQLite数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="504" y="541" width="366" height="49" as="geometry" />
+          <mxGeometry x="679.5" y="541" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-16" value="20维特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="61" y="516" width="157" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="navEYXCAtq3ecy9_J3oT-20" value="缓存存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="541" width="124" height="49" as="geometry" />
+        </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-19" value="模型文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="518.5" y="541" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="navEYXCAtq3ecy9_J3oT-20" value="缓存存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="870" y="541" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-12" target="navEYXCAtq3ecy9_J3oT-15">
           <mxGeometry relative="1" as="geometry">
@@ -136,11 +136,11 @@
             <mxPoint x="620" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="navEYXCAtq3ecy9_J3oT-41" value="业务逻辑层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="93" y="315" width="77" height="41" as="geometry" />
-        </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-42" value="数据储存层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="463.5" y="516" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="navEYXCAtq3ecy9_J3oT-41" value="业务逻辑层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="93" y="315" width="77" height="41" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-43" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="202" y="565" width="74" height="41" as="geometry" />
