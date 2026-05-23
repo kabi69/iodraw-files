@@ -44,10 +44,10 @@
           <mxGeometry x="206" y="340" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-13" value="检测报告模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="502" y="342" width="156" height="49" as="geometry" />
+          <mxGeometry x="408" y="340" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-14" value="缓存管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="658" y="340" width="156" height="49" as="geometry" />
+          <mxGeometry x="630" y="340" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-15" value="文本预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="268" y="491" width="140" height="49" as="geometry" />
@@ -91,13 +91,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="navEYXCAtq3ecy9_J3oT-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-12" target="navEYXCAtq3ecy9_J3oT-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="140" y="416" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-16" target="navEYXCAtq3ecy9_J3oT-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -136,6 +129,12 @@
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-39" value="API接口层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="93" y="169" width="87" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="navEYXCAtq3ecy9_J3oT-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="420" as="sourcePoint" />
+            <mxPoint x="620" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
