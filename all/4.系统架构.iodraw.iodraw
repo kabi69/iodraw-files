@@ -44,7 +44,7 @@
           <mxGeometry x="159" y="342" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-13" value="检测报告模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="497" y="342" width="156" height="49" as="geometry" />
+          <mxGeometry x="502" y="342" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-14" value="缓存管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="861" y="342" width="156" height="49" as="geometry" />
