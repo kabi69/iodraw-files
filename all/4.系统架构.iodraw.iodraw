@@ -41,7 +41,7 @@
           <mxGeometry x="580" y="194" width="147" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-12" value="AIGC检测模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="159" y="342" width="159" height="49" as="geometry" />
+          <mxGeometry x="258.5" y="342" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-13" value="检测报告模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="502" y="342" width="156" height="49" as="geometry" />
@@ -86,13 +86,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="navEYXCAtq3ecy9_J3oT-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.82;entryY=0.01;rounded=0;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-10" target="navEYXCAtq3ecy9_J3oT-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="341" y="317" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-11" target="navEYXCAtq3ecy9_J3oT-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -129,7 +122,7 @@
             <mxPoint x="620" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="navEYXCAtq3ecy9_J3oT-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-9">
+        <mxCell id="navEYXCAtq3ecy9_J3oT-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-9" target="navEYXCAtq3ecy9_J3oT-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="420" as="sourcePoint" />
             <mxPoint x="620" y="370" as="targetPoint" />
