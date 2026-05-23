@@ -44,7 +44,7 @@
           <mxGeometry x="797" y="360" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BYUqpOU9FO1eT6hEposT-14" value="可视化图表（雷达图/柱状图）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="502" y="351" width="244" height="66" as="geometry" />
+          <mxGeometry x="502" y="351" width="244" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BYUqpOU9FO1eT6hEposT-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="1" source="BYUqpOU9FO1eT6hEposT-1" target="BYUqpOU9FO1eT6hEposT-2">
           <mxGeometry relative="1" as="geometry">
