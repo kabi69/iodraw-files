@@ -64,9 +64,6 @@
         <mxCell id="navEYXCAtq3ecy9_J3oT-20" value="缓存存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="880" y="541" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="navEYXCAtq3ecy9_J3oT-19" value="模型文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="518.5" y="541" width="125" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-12" target="navEYXCAtq3ecy9_J3oT-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -147,6 +144,9 @@
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-44" value="数据处理层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="26" y="466" width="84" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="navEYXCAtq3ecy9_J3oT-19" value="模型文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="518.5" y="557" width="125" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
