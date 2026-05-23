@@ -72,7 +72,7 @@
             <mxPoint x="288.7900000000002" y="400" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="navEYXCAtq3ecy9_J3oT-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-15">
+        <mxCell id="navEYXCAtq3ecy9_J3oT-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-15" target="navEYXCAtq3ecy9_J3oT-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="292" y="601" />
