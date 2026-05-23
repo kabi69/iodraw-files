@@ -139,7 +139,7 @@
         <mxCell id="navEYXCAtq3ecy9_J3oT-41" value="业务逻辑层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="93" y="315" width="77" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="navEYXCAtq3ecy9_J3oT-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="navEYXCAtq3ecy9_J3oT-42" value="数据储存层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="463.5" y="516" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-43" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
