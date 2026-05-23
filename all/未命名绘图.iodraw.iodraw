@@ -11,10 +11,10 @@
           <mxGeometry x="1099" y="217" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BYUqpOU9FO1eT6hEposT-3" value="批量检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="249" y="260" width="124" height="49" as="geometry" />
+          <mxGeometry x="249" y="230" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BYUqpOU9FO1eT6hEposT-4" value="查看检测报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="620" y="220" width="156" height="49" as="geometry" />
+          <mxGeometry x="680" y="230" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BYUqpOU9FO1eT6hEposT-5" value="导出检测结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="230" width="157" height="49" as="geometry" />
@@ -110,6 +110,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="420" as="sourcePoint" />
             <mxPoint x="670" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYUqpOU9FO1eT6hEposT-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="370" as="sourcePoint" />
+            <mxPoint x="740" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
