@@ -32,7 +32,7 @@
           <mxGeometry x="661" y="45" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-9" value="单文本检测API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="194" width="163" height="49" as="geometry" />
+          <mxGeometry x="77" y="194" width="163" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-10" value="批量检测API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="268" y="194" width="147" height="49" as="geometry" />
