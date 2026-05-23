@@ -49,8 +49,11 @@
         <mxCell id="navEYXCAtq3ecy9_J3oT-14" value="缓存管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="630" y="340" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="navEYXCAtq3ecy9_J3oT-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-15" target="navEYXCAtq3ecy9_J3oT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-15" value="文本预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="222" y="502" width="140" height="49" as="geometry" />
+          <mxGeometry x="224" y="565" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-17" value="模型预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="31" y="626" width="125" height="49" as="geometry" />
@@ -134,7 +137,7 @@
           <mxGeometry x="93" y="315" width="77" height="41" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-43" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="202" y="565" width="74" height="41" as="geometry" />
+          <mxGeometry x="150" y="576" width="74" height="41" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-44" value="数据处理层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="477" width="84" height="41" as="geometry" />
