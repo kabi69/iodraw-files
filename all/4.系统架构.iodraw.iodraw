@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="navEYXCAtq3ecy9_J3oT-1" value="数据存储层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="463" y="516" width="577" height="124" as="geometry" />
+          <mxGeometry x="463" y="516" width="573" height="124" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-2" value="数据处理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-20" y="477" width="417" height="222" as="geometry" />
