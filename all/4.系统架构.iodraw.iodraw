@@ -22,6 +22,9 @@
         <mxCell id="navEYXCAtq3ecy9_J3oT-6" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="279" y="45" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="navEYXCAtq3ecy9_J3oT-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="navEYXCAtq3ecy9_J3oT-7" target="navEYXCAtq3ecy9_J3oT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-7" value="Canvas可视化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="453" y="45" width="157" height="49" as="geometry" />
         </mxCell>
