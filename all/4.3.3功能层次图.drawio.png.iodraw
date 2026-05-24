@@ -17,10 +17,10 @@
           <mxGeometry x="210" y="169" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zn_UNr9peGBoTgVJSCKA-5" value="检测按钮与加载动画" style="whiteSpace=wrap;strokeWidth=2;fontSize=26;" parent="zn_UNr9peGBoTgVJSCKA-1" vertex="1">
-          <mxGeometry x="487" y="169" width="233" height="49" as="geometry" />
+          <mxGeometry x="470" y="169" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zn_UNr9peGBoTgVJSCKA-6" value="批量检测界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=26;" parent="zn_UNr9peGBoTgVJSCKA-1" vertex="1">
-          <mxGeometry x="1044" y="46" width="156" height="49" as="geometry" />
+          <mxGeometry x="1040" y="46" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zn_UNr9peGBoTgVJSCKA-7" value="文件上传" style="whiteSpace=wrap;strokeWidth=2;fontSize=26;" parent="zn_UNr9peGBoTgVJSCKA-1" vertex="1">
           <mxGeometry x="741" y="169" width="162" height="49" as="geometry" />
