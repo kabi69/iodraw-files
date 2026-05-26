@@ -151,13 +151,6 @@
         <mxCell id="aYvIdBWTA6FD18LQJAgw-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.169;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aYvIdBWTA6FD18LQJAgw-20" target="aYvIdBWTA6FD18LQJAgw-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aYvIdBWTA6FD18LQJAgw-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.181;entryY=0.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aYvIdBWTA6FD18LQJAgw-23" target="aYvIdBWTA6FD18LQJAgw-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="610" y="304" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
