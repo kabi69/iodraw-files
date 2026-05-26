@@ -88,6 +88,9 @@
             <mxPoint x="450" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aYvIdBWTA6FD18LQJAgw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aYvIdBWTA6FD18LQJAgw-20" target="aYvIdBWTA6FD18LQJAgw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aYvIdBWTA6FD18LQJAgw-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="60" height="60" as="geometry" />
         </mxCell>
