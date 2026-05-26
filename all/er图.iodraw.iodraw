@@ -22,8 +22,8 @@
         <mxCell id="aYvIdBWTA6FD18LQJAgw-6" value="执行" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="410" width="66" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aYvIdBWTA6FD18LQJAgw-7" value="被检测" style="rhombus;whiteSpace=wrap;html=1;rotation=-45;" vertex="1" parent="1">
-          <mxGeometry x="250" y="400" width="66" height="70" as="geometry" />
+        <mxCell id="aYvIdBWTA6FD18LQJAgw-7" value="被检测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="400" width="66" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aYvIdBWTA6FD18LQJAgw-8" value="执行" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="620" width="66" height="70" as="geometry" />
@@ -40,7 +40,7 @@
             <mxPoint x="391" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aYvIdBWTA6FD18LQJAgw-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aYvIdBWTA6FD18LQJAgw-7" target="aYvIdBWTA6FD18LQJAgw-1">
+        <mxCell id="aYvIdBWTA6FD18LQJAgw-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aYvIdBWTA6FD18LQJAgw-7" target="aYvIdBWTA6FD18LQJAgw-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="510" as="sourcePoint" />
             <mxPoint x="440" y="460" as="targetPoint" />
