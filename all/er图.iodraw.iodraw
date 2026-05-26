@@ -106,7 +106,7 @@
         <mxCell id="aYvIdBWTA6FD18LQJAgw-27" value="姓名" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="510" y="740" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aYvIdBWTA6FD18LQJAgw-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="aYvIdBWTA6FD18LQJAgw-28" value="密码" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="420" y="840" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aYvIdBWTA6FD18LQJAgw-29" value="教师工号" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -222,6 +222,9 @@
             <mxPoint x="300" y="500" as="sourcePoint" />
             <mxPoint x="350" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aYvIdBWTA6FD18LQJAgw-68" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="678" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
