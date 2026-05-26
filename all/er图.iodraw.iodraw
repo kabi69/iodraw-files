@@ -4,16 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aYvIdBWTA6FD18LQJAgw-1" value="作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aYvIdBWTA6FD18LQJAgw-1" value="作业" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="150" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aYvIdBWTA6FD18LQJAgw-2" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aYvIdBWTA6FD18LQJAgw-2" value="学生" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="590" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aYvIdBWTA6FD18LQJAgw-3" value="检测记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aYvIdBWTA6FD18LQJAgw-3" value="检测记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="354" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aYvIdBWTA6FD18LQJAgw-4" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aYvIdBWTA6FD18LQJAgw-4" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="354" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
