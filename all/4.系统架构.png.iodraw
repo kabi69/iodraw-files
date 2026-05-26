@@ -7,7 +7,7 @@
         <mxCell id="navEYXCAtq3ecy9_J3oT-1" value="数据存储层" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="463" y="516" width="573" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="navEYXCAtq3ecy9_J3oT-2" value="数据处理层" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="navEYXCAtq3ecy9_J3oT-2" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-20" y="477" width="417" height="222" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-3" value="业务逻辑层" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
@@ -137,7 +137,7 @@
           <mxGeometry x="93" y="315" width="77" height="41" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-44" value="数据处理层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="477" width="84" height="41" as="geometry" />
+          <mxGeometry x="-20" y="477" width="100" height="41" as="geometry" />
         </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-19" value="模型文件" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="518.5" y="557" width="125" height="49" as="geometry" />
