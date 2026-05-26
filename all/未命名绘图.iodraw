@@ -4,83 +4,80 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eKTz-CHJpawpHu_shUMF-25" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1740" y="250" width="1454" height="247" as="geometry" />
+        <mxCell id="eKTz-CHJpawpHu_shUMF-26" value="特征数据展示" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="1990" y="296" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-26" value="特征数据展示" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" vertex="1">
-          <mxGeometry x="250" y="46" width="157" height="49" as="geometry" />
+        <mxCell id="eKTz-CHJpawpHu_shUMF-27" value="20维特征数值" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="1783" y="419" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-27" value="20维特征数值" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" vertex="1">
-          <mxGeometry x="43" y="169" width="157" height="49" as="geometry" />
+        <mxCell id="eKTz-CHJpawpHu_shUMF-28" value="颜色编码标记" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="1990" y="419" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-28" value="颜色编码标记" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" vertex="1">
-          <mxGeometry x="250" y="169" width="157" height="49" as="geometry" />
+        <mxCell id="eKTz-CHJpawpHu_shUMF-29" value="特征说明tooltip" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="2196" y="419" width="173" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-29" value="特征说明tooltip" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" vertex="1">
-          <mxGeometry x="456" y="169" width="173" height="49" as="geometry" />
+        <mxCell id="eKTz-CHJpawpHu_shUMF-30" value="报告数据结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="2540" y="296" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-30" value="报告数据结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" vertex="1">
-          <mxGeometry x="800" y="46" width="156" height="49" as="geometry" />
+        <mxCell id="eKTz-CHJpawpHu_shUMF-31" value="JSON格式封装" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="2419" y="419" width="160" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-31" value="JSON格式封装" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" vertex="1">
-          <mxGeometry x="679" y="169" width="160" height="49" as="geometry" />
+        <mxCell id="eKTz-CHJpawpHu_shUMF-32" value="评分/标签/证据/特征" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="2629" y="419" width="213" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-32" value="评分/标签/证据/特征" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" vertex="1">
-          <mxGeometry x="889" y="169" width="213" height="49" as="geometry" />
+        <mxCell id="eKTz-CHJpawpHu_shUMF-33" value="可视化渲染" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="2956" y="296" width="141" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-33" value="可视化渲染" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" vertex="1">
-          <mxGeometry x="1216" y="46" width="141" height="49" as="geometry" />
+        <mxCell id="eKTz-CHJpawpHu_shUMF-34" value="雷达图" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="2893" y="419" width="108" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-34" value="雷达图" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" vertex="1">
-          <mxGeometry x="1153" y="169" width="108" height="49" as="geometry" />
+        <mxCell id="eKTz-CHJpawpHu_shUMF-35" value="柱状图" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="3051" y="419" width="109" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-35" value="柱状图" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" vertex="1">
-          <mxGeometry x="1311" y="169" width="109" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" source="eKTz-CHJpawpHu_shUMF-26" target="eKTz-CHJpawpHu_shUMF-27" edge="1">
+        <mxCell id="eKTz-CHJpawpHu_shUMF-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="1" source="eKTz-CHJpawpHu_shUMF-26" target="eKTz-CHJpawpHu_shUMF-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="121" y="132" />
+              <mxPoint x="1861" y="382" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" source="eKTz-CHJpawpHu_shUMF-26" target="eKTz-CHJpawpHu_shUMF-28" edge="1">
+        <mxCell id="eKTz-CHJpawpHu_shUMF-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="1" source="eKTz-CHJpawpHu_shUMF-26" target="eKTz-CHJpawpHu_shUMF-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" source="eKTz-CHJpawpHu_shUMF-26" target="eKTz-CHJpawpHu_shUMF-29" edge="1">
+        <mxCell id="eKTz-CHJpawpHu_shUMF-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="1" source="eKTz-CHJpawpHu_shUMF-26" target="eKTz-CHJpawpHu_shUMF-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="543" y="132" />
+              <mxPoint x="2283" y="382" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" source="eKTz-CHJpawpHu_shUMF-30" target="eKTz-CHJpawpHu_shUMF-31" edge="1">
+        <mxCell id="eKTz-CHJpawpHu_shUMF-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="1" source="eKTz-CHJpawpHu_shUMF-30" target="eKTz-CHJpawpHu_shUMF-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="759" y="132" />
+              <mxPoint x="2499" y="382" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" source="eKTz-CHJpawpHu_shUMF-30" target="eKTz-CHJpawpHu_shUMF-32" edge="1">
+        <mxCell id="eKTz-CHJpawpHu_shUMF-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="1" source="eKTz-CHJpawpHu_shUMF-30" target="eKTz-CHJpawpHu_shUMF-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="996" y="132" />
+              <mxPoint x="2736" y="382" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" source="eKTz-CHJpawpHu_shUMF-33" target="eKTz-CHJpawpHu_shUMF-34" edge="1">
+        <mxCell id="eKTz-CHJpawpHu_shUMF-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="1" source="eKTz-CHJpawpHu_shUMF-33" target="eKTz-CHJpawpHu_shUMF-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1207" y="132" />
+              <mxPoint x="2947" y="382" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eKTz-CHJpawpHu_shUMF-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="eKTz-CHJpawpHu_shUMF-25" source="eKTz-CHJpawpHu_shUMF-33" target="eKTz-CHJpawpHu_shUMF-35" edge="1">
+        <mxCell id="eKTz-CHJpawpHu_shUMF-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=22;" parent="1" source="eKTz-CHJpawpHu_shUMF-33" target="eKTz-CHJpawpHu_shUMF-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1365" y="132" />
+              <mxPoint x="3105" y="382" />
             </Array>
           </mxGeometry>
         </mxCell>
