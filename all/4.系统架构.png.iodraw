@@ -136,9 +136,6 @@
         <mxCell id="navEYXCAtq3ecy9_J3oT-41" value="业务逻辑层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="93" y="315" width="77" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="navEYXCAtq3ecy9_J3oT-43" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="150" y="576" width="74" height="41" as="geometry" />
-        </mxCell>
         <mxCell id="navEYXCAtq3ecy9_J3oT-44" value="数据处理层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-20" y="477" width="84" height="41" as="geometry" />
         </mxCell>
