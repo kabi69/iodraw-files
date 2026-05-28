@@ -23,13 +23,13 @@
           <mxGeometry x="320" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="csxaUApFNWGrIuj9N0tO-9" value="导出检测结果" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="320" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="250" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="csxaUApFNWGrIuj9N0tO-10" value="提交作业自测" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="320" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="440" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="csxaUApFNWGrIuj9N0tO-11" value="查看检测报告" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="320" y="540" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="540" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="csxaUApFNWGrIuj9N0tO-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="csxaUApFNWGrIuj9N0tO-1" target="csxaUApFNWGrIuj9N0tO-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
