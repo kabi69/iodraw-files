@@ -13,8 +13,8 @@
         <mxCell id="csxaUApFNWGrIuj9N0tO-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="130" width="360" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="csxaUApFNWGrIuj9N0tO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="csxaUApFNWGrIuj9N0tO-5" value="AIGC检测系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
