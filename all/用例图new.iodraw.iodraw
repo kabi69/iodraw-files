@@ -98,7 +98,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="csxaUApFNWGrIuj9N0tO-26" value="进度反馈" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="csxaUApFNWGrIuj9N0tO-26" value="可视化图表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="540" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="csxaUApFNWGrIuj9N0tO-27" value="多文本并行检测" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
