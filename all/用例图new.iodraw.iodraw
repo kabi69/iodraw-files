@@ -31,6 +31,12 @@
         <mxCell id="csxaUApFNWGrIuj9N0tO-11" value="查看检测报告" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="540" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="csxaUApFNWGrIuj9N0tO-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="csxaUApFNWGrIuj9N0tO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="510" as="sourcePoint" />
+            <mxPoint x="440" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
