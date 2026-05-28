@@ -17,13 +17,13 @@
           <mxGeometry x="380" y="140" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="csxaUApFNWGrIuj9N0tO-7" value="单文本检测" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="330" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="csxaUApFNWGrIuj9N0tO-8" value="批量检测" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="csxaUApFNWGrIuj9N0tO-9" value="导出检测结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="csxaUApFNWGrIuj9N0tO-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="490" width="120" height="80" as="geometry" />
