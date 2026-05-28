@@ -7,8 +7,11 @@
         <mxCell id="csxaUApFNWGrIuj9N0tO-1" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="180" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="csxaUApFNWGrIuj9N0tO-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="csxaUApFNWGrIuj9N0tO-2" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csxaUApFNWGrIuj9N0tO-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
